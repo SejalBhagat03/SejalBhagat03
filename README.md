@@ -20,7 +20,7 @@
 ```yaml
 name: Sejal Bhagat
 location: Nagpur, India 🇮🇳
-education: Final-year B.E. in Computer Science Engineering
+education: Final-year B.Tech in Computer Science Engineering
 currently_building: Full-Stack Web Apps & Web3 DApps
 interests:
   - Building responsive UIs with React
