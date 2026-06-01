@@ -72,8 +72,8 @@ fun_fact: "I built a Python script to generate my resume because MS Word was too
 
 | Platform | Profile | Stats |
 | :---: | :---: | :---: |
-| ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black) | [SejalBhagat03](https://leetcode.com/u/SejalBhagat03/) | 300+ problems solved |
-| ![HackerRank](https://img.shields.io/badge/HackerRank-32C766?style=flat-square&logo=HackerRank&logoColor=white) | [sejalbhagat0308](https://www.hackerrank.com/profile/SejalBhagat03) | Multiple certifications |
+| ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black) | [LeetCode](https://leetcode.com/u/sejalbhagat0308/) | 70+ problems solved |
+| ![HackerRank](https://img.shields.io/badge/HackerRank-32C766?style=flat-square&logo=HackerRank&logoColor=white) | [Hackerrank](https://www.hackerrank.com/profile/sejalbhagat0308) | Multiple certifications |
 
 </p>
 
