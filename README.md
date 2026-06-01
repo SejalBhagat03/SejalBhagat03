@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Sejal+Bhagat+%F0%9F%91%8B;Full-Stack+Developer+%7C+Web3+Builder;300%2B+DSA+Problems+Solved+%F0%9F%A7%A0;Always+Building+Something+Cool+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Sejal+Bhagat+%F0%9F%91%8B;Full-Stack+Developer+%7C+Web3+Builder;Always+Building+Something+Cool+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -76,16 +76,6 @@ fun_fact: "I built a Python script to generate my resume because MS Word was too
 | ![HackerRank](https://img.shields.io/badge/HackerRank-32C766?style=flat-square&logo=HackerRank&logoColor=white) | [SejalBhagat03](https://www.hackerrank.com/profile/SejalBhagat03) | Multiple certifications |
 
 </p>
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech |
-| :--- | :--- | :--- |
-| 📄 [Resume Generator](https://github.com/SejalBhagat03/Resume-Generator-) | Data-driven, ATS-friendly PDF resume builder — no MS Word needed! | Python, ReportLab |
-
----
 
 ### 🐍 Contribution Graph
 
