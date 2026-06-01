@@ -37,16 +37,6 @@ Showcasing my algorithm design and data structures training:
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/SejalBhagat03/)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-32C766?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/SejalBhagat03)
 
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-| :--- | :--- | :--- |
-| [Resume Generator](https://github.com/SejalBhagat03/Resume-Generator-) | A data-driven, ATS-friendly PDF resume builder | Python, ReportLab |
-
----
-
 <p align="center">
   <i>💡 "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
 </p>
