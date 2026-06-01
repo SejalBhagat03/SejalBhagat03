@@ -36,22 +36,16 @@ Showcasing my algorithm design and data structures training:
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/SejalBhagat03/)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-32C766?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/SejalBhagat03)
 
-* **LeetCode Stats:**
-  ![LeetCode Stats](https://leetcode-stats.vercel.app/?username=SejalBhagat03&theme=dark)
-
 ---
 
-## 📊 GitHub Analytics
+## 🚀 Featured Projects
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SejalBhagat03&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SejalBhagat03&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" />
-</p>
-
-![](https://nirzak-streak-stats.vercel.app/?user=SejalBhagat03&theme=dark&hide_border=false)<br/>
+| Project | Description | Tech |
+| :--- | :--- | :--- |
+| [Resume Generator](https://github.com/SejalBhagat03/Resume-Generator-) | A data-driven, ATS-friendly PDF resume builder | Python, ReportLab |
 
 ---
 
 <p align="center">
-  [![](https://visitcount.itsvg.in/api?id=SejalBhagat03&icon=0&color=0)](https://visitcount.itsvg.in)
+  <i>💡 "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
 </p>
